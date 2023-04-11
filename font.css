@@ -1,4 +1,5 @@
 :root {
-  --font: SF Pro Text;
+  --font-primary: "SF Pro Text","Noto Sans","Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-display: "SF Pro Text","Noto Sans","Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
